@@ -1,0 +1,3 @@
+I spent a little under 4 hours on the challenge, however I don't consider it finished. I would spend more time on my validRomanNumeral 
+function to make sure that the roman numerals entered by the user are valid roman numerals. I would also simplify the functions used 
+to convert modern digits into roman numerals. 
